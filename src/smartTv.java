@@ -1,3 +1,12 @@
+/**
+ * <h1>Simulador de SmarTv<h1>
+ * 
+ * <h2> O programa busca simular apenas o estado da tv, canais e volume. <h2> 
+ * <h2> Pretendo melhorar ainda mais o código para desenvolver meu conhecimento. <h2> 
+ * @author Walace José Silva
+ * @version 1.0
+ * @since 16/04/2024
+ */
 public class smartTv {
 
     public boolean ligada = true;
